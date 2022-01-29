@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: FinalItachiSprite_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: e76fadb90c6a8d14ea54d9edb0424513, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 6c1b7b73daa66834f9bedec21ba029d9, type: 2}
+  - {fileID: 2100000, guid: e0359be55c1c1f34d9a3e56705d82c70, type: 2}
+  - {fileID: 2100000, guid: 23a2df71869bc9f448746bb76b8099f1, type: 2}
+  - {fileID: 2100000, guid: 60b685d7200ee9e4d8bc209764c49b55, type: 2}
+  - {fileID: 2100000, guid: aef471a37574fc340bb53b729f80a119, type: 2}
+  - {fileID: 2100000, guid: 0cbc92241b72165489ffba3766cf81c6, type: 2}
+  - {fileID: 2100000, guid: ef19b82eca05d6c4aaf95674a61aa83d, type: 2}
+  - {fileID: 2100000, guid: d791fd07b35cad244b250e44cac7fd63, type: 2}
+  - {fileID: 2100000, guid: dd865499936b4e544b28a8e553ec5d7c, type: 2}
+  - {fileID: 2100000, guid: b197c1b6e3408c14a9a82d27f0c85c90, type: 2}
+  - {fileID: 2100000, guid: b7ce22ecea0eb7345aed0bb965730c78, type: 2}
+  - {fileID: 2100000, guid: 77d0760a9f6c3744592c30666213f243, type: 2}
+  - {fileID: 2100000, guid: 4a02e8de847ff8a4d838a8bb1addc2c6, type: 2}
+  - {fileID: 2100000, guid: 894700ba94f5d2b418710303188e56b9, type: 2}
+  - {fileID: 2100000, guid: 60ed227acc973f647ae7f600e142a9a2, type: 2}
+  - {fileID: 2100000, guid: 53de36e0a35bf9f46be9c65b233b3457, type: 2}
+  - {fileID: 2100000, guid: 66c4732ef412b804e97270a6cc8ba568, type: 2}
+  - {fileID: 2100000, guid: 637044487a6635e44b33fa03bdbe73ce, type: 2}
+  - {fileID: 2100000, guid: e28e4d8f4c405294a920a519fe38f73d, type: 2}

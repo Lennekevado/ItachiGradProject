@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 1777a1eb1bcdcc148a8ba2ec8b960265
+  - enabled: 1
+    path: Assets/Scenes/MoonbunnyLevel.unity
+    guid: 7a23063c8bad6f94b995ad8bd136fe39
+  - enabled: 1
+    path: Assets/Scenes/Level2Moon.unity
+    guid: 76803d7ced2bf3246aa5fbfe223edff7
+  m_configObjects: {}
